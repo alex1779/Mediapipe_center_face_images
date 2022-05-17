@@ -15,8 +15,8 @@ pip install -r requirements.txt
 python main.py -i input/example1.jpg
 ```
 
-
-![Image Input](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/input/example.jpg)
+## Result
+![Image Input](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/imgs/example.jpg)
 
 
 
@@ -24,7 +24,9 @@ python main.py -i input/example1.jpg
 
 ## How works
 
-
+```
+From the face points generated using mediapipe, use face replacement by triangulating a centered image using cv2 and numpy.
+```
 
 
 
