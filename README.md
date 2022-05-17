@@ -19,7 +19,7 @@ python main.py -i input/example1.jpg
 ```
 
 
-![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/05.gif)
+![Face Mesh](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/input/example1.jpg)
 
 
 ## How works
