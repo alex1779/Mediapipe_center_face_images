@@ -9,16 +9,16 @@ cd mediapipe_center_face_images
 pip install -r requirements.txt
 ```
 
-## For running
+## How to run
+
 ```
 python main.py -i input/example1.jpg
 ```
 
 
-```
-![Image Input](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/input/example1.jpg)
+![Image Input](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/input/example.jpg)
 
-![Image Result](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/imgs/example1_result.jpg)
+
 
 
 
