@@ -15,11 +15,11 @@ python main.py -i input/example1.jpg
 ```
 
 
-
 ```
+![Image Input](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/input/example1.jpg)
 
+![Image Result](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/imgs/example1_result.jpg)
 
-![Face Mesh](https://github.com/alex1779/Mediapipe_center_face_images/blob/master/input/example1.jpg)
 
 
 ## How works
